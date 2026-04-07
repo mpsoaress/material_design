@@ -1,3 +1,3 @@
-# material_design
+# Primeiros passos com material design
 
-A new Flutter project.
+Repositório com primeiras práticas de com Material Design em Flutter, usando cards, floating action button, e scaffold messenger. 
